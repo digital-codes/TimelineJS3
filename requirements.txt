@@ -8,7 +8,7 @@ ecdsa>=0.13.3
 enum34==1.1.6
 Fabric==1.10.0
 flask>=1.0.0
-idna==2.7
+idna==3.7
 ipaddress==1.0.22
 ipython==2.3.0
 itsdangerous==0.24
